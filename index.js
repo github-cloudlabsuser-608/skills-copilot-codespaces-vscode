@@ -54,3 +54,4 @@ const names = data.map((group) => {
     return group.map((person) => {
         return person.name;
     });
+});
